@@ -1,0 +1,9 @@
+[Gedit Plugin]
+Loader=python
+Module=quickhighlightmode
+IAge=2
+Name=Quick Highlight Mode
+Description=This plugin provides a faster and easier way to select the current document highlighting mode. Just press Ctrl+Shift+H, type the language and press Enter.
+Authors=Fabio Zendhi Nagao <nagaozen at hotmail dot com>, Nando Vieira <fnando dot vieira at gmail dot com>
+Copyright=Copyright © 2009 Fabio Zendhi Nagao <nagaozen at hotmail dot com>
+Website=http://github.com/nagaozen/GEdit-Plugin---QuickHighlightMode/tree/master
