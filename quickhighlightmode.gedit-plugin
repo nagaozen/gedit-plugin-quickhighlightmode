@@ -1,0 +1,9 @@
+[Gedit Plugin]
+Loader=python
+Module=quickhighlightmode
+IAge=2
+Name=Evolved Quick Highlight Mode
+Description=Quickly switch between document syntax highlight modes.
+Authors=Fabio Zendhi Nagao <nagaozen@hotmail.com>\nhttp://zend.lojcomm.com.br/
+Copyright=Copyright © 2009-2011 Fabio Zendhi Nagao
+Website=http://github.com/nagaozen/gedit-plugin-quickhighlightmode/
