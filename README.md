@@ -1,20 +1,25 @@
-Quick Highlight Mode
-====================
+Evolved Quick Highlight Mode
+=====
 
 This plugin provides a faster and easier way to switch the current document syntax 
-highlighting mode. Just press `Ctrl+Shift+H`, type the language and press `Enter`.
+highlighting mode in the gedit text editor (GNOME default text editor). Just press
+`Ctrl+Shift+H`, type the language and press `Enter`.
+
+### Homepage
+
+For more information about this plugin, consider visiting: <http://gedit.evolved.com.br/>.
 
 Installation
-------------
+-----
 
-1. Copy the `quickhighlightmode.gedit-plugin` and the `quickhighlightmode`
-2. Open gedit and click `Edit -> Preferences -> Plugins`
-   into your `~/.gnome2/gedit/plugins/`
-3. Check the `Quick Highlight Mode` and hit `Close`
-4. That's it! Now you can change the document language pressing `Ctrl+Shift+H`
+1. Download this repository using `$ git clone git://github.com/nagaozen/gedit-plugin-quickhighlightmode.git` in your *nix terminal or by clicking at the Download button at top selecting the master branch.
+1. Copy `quickhighlightmode.gedit-plugin` file and `quickhighlightmode` folder into your `~/.gnome2/gedit/plugins/` folder.
+1. Open gedit and click `Edit -> Preferences -> Plugins`.
+1. Check the `Evolved Code Browser` and hit `Close`.
+1. That's it! Now you should be able to change the document syntax highlighting mode by pressing `Ctrl+Shift+H`.
 
 License
--------
+-----
 
 Copyright (C) 2009-2011 [Fabio Zendhi Nagao](http://zend.lojcomm.com.br/)
 
@@ -32,13 +37,13 @@ this program; if not, write to the Free Software Foundation, Inc., 59 Temple
 Place, Suite 330, Boston, MA 02111-1307 USA
 
 Credits
--------
+-----
 
 - Original concept by Nando Vieira @ <http://simplesideias.com.br/quick-highlight-mode/>.
 - Current build by [Fabio Zendhi Nagao](http://zend.lojcomm.com.br/).
 
 Changes
--------
+-----
 
 > @2011-02-28  
 > - _update_: Plugin entirely rebuilt. Works also in Windows and Mac OSX.
